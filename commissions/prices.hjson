@@ -1,0 +1,115 @@
+{
+    "Basic GFX's": [
+        {
+            name: Transparent Render
+            price: 20-50
+            desc: This is a basic render.
+            image: https://cdn.discordapp.com/attachments/638758189097156639/874472974156181544/Untitled_Artwork.png
+            extra:
+                '''
+                Size: 1000x1000
+                HDRI's are not allowed.
+                Up to 1 prop and 1 person.
+                Background Models are not allowed.
+                Custom profile will be an additional 10 robux.
+                Any additional props will be 5 robux each.
+                '''
+        }
+        {
+            name: Roblox Studio Model / HDRI background
+            price: 50-100
+            desc: This is a render with a background.
+            image: https://cdn.discordapp.com/attachments/638758189097156639/874721534923653180/Untitled_Artwork.png
+            extra:
+                '''
+                Size: 1000x1000 or 1920x1080
+                Chose either a HDRI, Roblox Studio Background, or both.
+                Up to 3 props.
+                Custom profile will be an additional 10 robux.
+                Any additional props will be 5 robux each.
+                Up to 2 person.
+                '''
+        }
+    ]
+    "Advanced GFX's": [
+        {
+            name: Group GFX
+            price: 80-150
+            desc: This is a render with multiple people.
+            image: https://cdn.discordapp.com/attachments/638758189097156639/874730352596381756/Untitled_Artwork.png
+            extra:
+                '''
+                Size: 1000x1000 or 1920x1080
+                HDRI's are allowed.
+                Roblox Studio models are allowed.
+                Up to 3 props.
+                Up to 5 people.
+                '''
+        }
+    ]
+    "Business GFX's": [
+        {
+            name: Icon GFX
+            price: 80-300
+            desc: This is a render that is made to go on a icon either on a game icon or on a group icon.
+            image: https://cdn.discordapp.com/attachments/638758189097156639/874732052044447814/Untitled_Artwork.png
+            extra:
+                '''
+                Size: 1000x1000
+                HDRI's are allowed.
+                Roblox Studio models are allowed.
+                Includes your choice of text on the front.
+                Up to 3 props.
+                Up to 3 people.
+                '''
+        }
+        {
+            name: Thumbnail GFX
+            price: 100-300
+            desc: This is a render that is made to go on a game thumbnail. Could be a game thumbnail or a Youtube thumbnail!
+            image: https://cdn.discordapp.com/attachments/638758189097156639/874733643438886980/Untitled_Artwork.png
+            extra:
+                '''
+                Size: 1920x1080
+                HDRI's are allowed.
+                Roblox Studio models are allowed.
+                Includes your choice of text on the front.
+                Up to 3 props.
+                Up to 3 people.
+                '''
+        }
+        {
+            name: Advertisement GFX
+            price: 50-150
+            desc: This is a render that is made to go on a Roblox advertisement.
+            image: https://cdn.discordapp.com/attachments/638758189097156639/874875607211716678/Untitled_Artwork.png
+            extra:
+                '''
+                Size: 1456x180, 320x1200, 600x500
+                HDRI's are allowed.
+                Roblox Studio models are allowed.
+                Includes your choice of text on the front.
+                Up to 2 props.
+                Up to 1 person.
+                '''
+        }
+    ]
+    "Influencer GFX's": [
+        {
+            name: Banner GFX
+            price: 100-300
+            desc: This is a render that is made to go on a Youtube Banner.
+            image: https://cdn.discordapp.com/attachments/638758189097156639/874763991392587877/Untitled_Artwork.png
+            extra:
+                '''
+                Size: 2560x1440
+                HDRI's are allowed.
+                Roblox Studio models are allowed.
+                Includes your choice of text on the front.
+                Up to 3 props.
+                Custom profile will be an additional 10 robux.
+                Up to 3 people.
+                '''
+        }
+    ]
+}
